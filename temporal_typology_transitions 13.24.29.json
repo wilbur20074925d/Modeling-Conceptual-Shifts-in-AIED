@@ -1,0 +1,5312 @@
+{
+  "1995": [
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.1667,
+      "kl_divergence": 19.6116,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    }
+  ],
+  "1996": [
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.1667,
+      "kl_divergence": 17.7842,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.2,
+      "kl_divergence": 17.6883,
+      "type": "Transformative"
+    },
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    }
+  ],
+  "1997": [
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.3333,
+      "kl_divergence": 17.3221,
+      "type": "Transformative"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.25,
+      "kl_divergence": 17.5531,
+      "type": "Transformative"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    }
+  ],
+  "1998": [
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.2,
+      "kl_divergence": 17.6883,
+      "type": "Transformative"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.25,
+      "kl_divergence": 13.6717,
+      "type": "Transformative"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    }
+  ],
+  "1999": [
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.1429,
+      "kl_divergence": 17.8585,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.3333,
+      "kl_divergence": 17.3221,
+      "type": "Transformative"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    }
+  ],
+  "2000": [
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.0216,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.0216,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.2,
+      "kl_divergence": 20.4954,
+      "type": "Transformative"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.0216,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.0216,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    }
+  ],
+  "2001": [
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.3333,
+      "kl_divergence": 17.3221,
+      "type": "Transformative"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.25,
+      "kl_divergence": 1.3863,
+      "type": "Transformative"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    }
+  ],
+  "2002": [
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.125,
+      "kl_divergence": 19.7393,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.2,
+      "kl_divergence": 1.6094,
+      "type": "Transformative"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    }
+  ],
+  "2003": [
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.0216,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.0216,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.1,
+      "kl_divergence": 20.8537,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.0216,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.0216,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.1667,
+      "kl_divergence": 1.7918,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    }
+  ],
+  "2004": [
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 25.8393,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 25.8393,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 25.8393,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 25.8393,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 25.8393,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    }
+  ],
+  "2005": [
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.5,
+      "kl_divergence": 13.1224,
+      "type": "Uncategorized"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.25,
+      "kl_divergence": 17.5531,
+      "type": "Transformative"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    }
+  ],
+  "2006": [
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.5,
+      "kl_divergence": 13.1224,
+      "type": "Uncategorized"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.25,
+      "kl_divergence": 1.3863,
+      "type": "Transformative"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 1.0,
+      "kl_divergence": 0.0,
+      "type": "Persistent"
+    }
+  ],
+  "2007": [
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.25,
+      "kl_divergence": 19.337,
+      "type": "Transformative"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.1667,
+      "kl_divergence": 19.6116,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    }
+  ],
+  "2008": [
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 1.0,
+      "kl_divergence": 0.0,
+      "type": "Persistent"
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.2,
+      "kl_divergence": 17.6883,
+      "type": "Transformative"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.3333,
+      "kl_divergence": 17.3221,
+      "type": "Transformative"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 1.0,
+      "kl_divergence": 0.0,
+      "type": "Persistent"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    }
+  ],
+  "2009": [
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.25,
+      "kl_divergence": 17.5531,
+      "type": "Transformative"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.25,
+      "kl_divergence": 1.3863,
+      "type": "Transformative"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.1667,
+      "kl_divergence": 17.7842,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    }
+  ],
+  "2010": [
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.25,
+      "kl_divergence": 1.3863,
+      "type": "Transformative"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 1.0,
+      "kl_divergence": 0.0,
+      "type": "Persistent"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.1429,
+      "kl_divergence": 19.6835,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.25,
+      "kl_divergence": 19.337,
+      "type": "Transformative"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.25,
+      "kl_divergence": 19.337,
+      "type": "Transformative"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 1.0,
+      "kl_divergence": 0.0,
+      "type": "Persistent"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    }
+  ],
+  "2011": [
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.1667,
+      "kl_divergence": 19.6116,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.1667,
+      "kl_divergence": 19.6116,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.3333,
+      "kl_divergence": 1.0986,
+      "type": "Transformative"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.5,
+      "kl_divergence": 13.1224,
+      "type": "Uncategorized"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.25,
+      "kl_divergence": 13.6717,
+      "type": "Transformative"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.3333,
+      "kl_divergence": 1.0986,
+      "type": "Transformative"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    }
+  ],
+  "2012": [
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.25,
+      "kl_divergence": 17.5531,
+      "type": "Transformative"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.2,
+      "kl_divergence": 17.6883,
+      "type": "Transformative"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.25,
+      "kl_divergence": 17.5531,
+      "type": "Transformative"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.3333,
+      "kl_divergence": 1.0986,
+      "type": "Transformative"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.25,
+      "kl_divergence": 17.5531,
+      "type": "Transformative"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.5,
+      "kl_divergence": 13.1224,
+      "type": "Uncategorized"
+    }
+  ],
+  "2013": [
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.5,
+      "kl_divergence": 13.1224,
+      "type": "Uncategorized"
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.2,
+      "kl_divergence": 17.6883,
+      "type": "Transformative"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.6667,
+      "kl_divergence": 0.4055,
+      "type": "Persistent"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    }
+  ],
+  "2014": [
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.25,
+      "kl_divergence": 1.3863,
+      "type": "Transformative"
+    },
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.25,
+      "kl_divergence": 17.5531,
+      "type": "Transformative"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.3333,
+      "kl_divergence": 17.3221,
+      "type": "Transformative"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.1667,
+      "kl_divergence": 17.7842,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.25,
+      "kl_divergence": 17.5531,
+      "type": "Transformative"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    }
+  ],
+  "2015": [
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.2,
+      "kl_divergence": 19.5103,
+      "type": "Transformative"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.1667,
+      "kl_divergence": 19.6116,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.25,
+      "kl_divergence": 19.337,
+      "type": "Transformative"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.3333,
+      "kl_divergence": 13.4689,
+      "type": "Transformative"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.25,
+      "kl_divergence": 13.6717,
+      "type": "Transformative"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.3333,
+      "kl_divergence": 1.0986,
+      "type": "Transformative"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.3333,
+      "kl_divergence": 1.0986,
+      "type": "Transformative"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    }
+  ],
+  "2016": [
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.1429,
+      "kl_divergence": 14.0182,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.5,
+      "kl_divergence": 13.1224,
+      "type": "Uncategorized"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.5,
+      "kl_divergence": 0.6931,
+      "type": "Uncategorized"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.125,
+      "kl_divergence": 17.9193,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 1.0,
+      "kl_divergence": 0.0,
+      "type": "Persistent"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 1.0,
+      "kl_divergence": 0.0,
+      "type": "Persistent"
+    }
+  ],
+  "2017": [
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.2857,
+      "kl_divergence": 16.9951,
+      "type": "Transformative"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 25.8393,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 25.8393,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 25.8393,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.1667,
+      "kl_divergence": 21.2341,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.5,
+      "kl_divergence": 0.6931,
+      "type": "Uncategorized"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.5,
+      "kl_divergence": 0.6931,
+      "type": "Uncategorized"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    }
+  ],
+  "2018": [
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.2,
+      "kl_divergence": 17.6883,
+      "type": "Transformative"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.1667,
+      "kl_divergence": 17.7842,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.5,
+      "kl_divergence": 13.1224,
+      "type": "Uncategorized"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.2,
+      "kl_divergence": 13.8155,
+      "type": "Transformative"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 1.0,
+      "kl_divergence": 0.0,
+      "type": "Persistent"
+    }
+  ],
+  "2019": [
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.3333,
+      "kl_divergence": 17.3221,
+      "type": "Transformative"
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.25,
+      "kl_divergence": 19.337,
+      "type": "Transformative"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.25,
+      "kl_divergence": 19.337,
+      "type": "Transformative"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.5,
+      "kl_divergence": 0.6931,
+      "type": "Uncategorized"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.3333,
+      "kl_divergence": 1.0986,
+      "type": "Transformative"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    }
+  ],
+  "2020": [
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 1.0,
+      "kl_divergence": 0.0,
+      "type": "Persistent"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.2,
+      "kl_divergence": 13.8155,
+      "type": "Transformative"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.5,
+      "kl_divergence": 13.1224,
+      "type": "Uncategorized"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 1.0,
+      "kl_divergence": 0.0,
+      "type": "Persistent"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.1667,
+      "kl_divergence": 17.7842,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.25,
+      "kl_divergence": 1.3863,
+      "type": "Transformative"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    }
+  ],
+  "2021": [
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.25,
+      "kl_divergence": 1.3863,
+      "type": "Transformative"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.5,
+      "kl_divergence": 0.6931,
+      "type": "Uncategorized"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.1429,
+      "kl_divergence": 19.6835,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.25,
+      "kl_divergence": 19.337,
+      "type": "Transformative"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.25,
+      "kl_divergence": 1.3863,
+      "type": "Transformative"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    }
+  ],
+  "2022": [
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.125,
+      "kl_divergence": 19.7393,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.25,
+      "kl_divergence": 19.337,
+      "type": "Transformative"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.1667,
+      "kl_divergence": 13.9271,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.5,
+      "kl_divergence": 0.6931,
+      "type": "Uncategorized"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    }
+  ],
+  "2023": [
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.25,
+      "kl_divergence": 13.6717,
+      "type": "Transformative"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.9379,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.3333,
+      "kl_divergence": 15.4086,
+      "type": "Transformative"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.0216,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.125,
+      "kl_divergence": 20.7726,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.2,
+      "kl_divergence": 20.4954,
+      "type": "Transformative"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.0216,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.25,
+      "kl_divergence": 1.3863,
+      "type": "Transformative"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    }
+  ],
+  "2024": [
+    {
+      "from": "2",
+      "to": "2",
+      "jaccard": 0.3333,
+      "kl_divergence": 17.3221,
+      "type": "Transformative"
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "jaccard": 0.2,
+      "kl_divergence": 17.6883,
+      "type": "Transformative"
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "jaccard": 0.25,
+      "kl_divergence": 17.5531,
+      "type": "Transformative"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.5324,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 26.2447,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "jaccard": 0.3333,
+      "kl_divergence": 1.0986,
+      "type": "Transformative"
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "jaccard": 0.0,
+      "kl_divergence": 27.631,
+      "type": "Emerging"
+    }
+  ]
+}

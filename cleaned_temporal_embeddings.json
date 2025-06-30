@@ -1,0 +1,962 @@
+[
+  {
+    "title": "Towards Flexible Teamwork",
+    "year": 1997,
+    "topics": [
+      "agent teams in multi-agent domains",
+      "flexible coordination communication",
+      "general models for autonomous reasoning about communication",
+      "teamwork monitoring and reorganization",
+      "decision-theoretic selectivity for reducing overheads"
+    ]
+  },
+  {
+    "title": "HILBERT & PATRIC: Hybrid Intelligent Agent Technology for Teaching Context-Independent Reasoning",
+    "year": 2003,
+    "topics": [
+      "Hybrid Intelligent Agent Technology",
+      "Context-Independent Reasoning",
+      "Automated Logic Instructor",
+      "AI-driven Tutoring",
+      "State-of-the-art Construction Courseware"
+    ]
+  },
+  {
+    "title": "Web Intelligence and Artificial Intelligence in Education.",
+    "year": 2004,
+    "topics": [
+      "Web Intelligence",
+      "Artificial Intelligence in Education",
+      "Ontologies",
+      "Adaptivity and Personalization",
+      "Intelligent Semantic Markup"
+    ]
+  },
+  {
+    "title": "Shrouded Attributes, Consumer Myopia, and Information Suppression in Competitive Markets",
+    "year": 2005,
+    "topics": [
+      "Information suppression",
+      "Consumer behavior",
+      "Market inefficiencies",
+      "Educating consumers",
+      "Marketing strategies"
+    ]
+  },
+  {
+    "title": "AI and Mathematical Education",
+    "year": 2012,
+    "topics": [
+      "Artificial Intelligence in Education",
+      "Mathematical Education",
+      "Intelligent Artifacts",
+      "Understanding Mechanisms of Intelligence",
+      "Key Figures in AI and Mathematics"
+    ]
+  },
+  {
+    "title": "Challenges and Opportunities in Game Artificial Intelligence Education Using Angry Birds",
+    "year": 2015,
+    "topics": [
+      "Game Artificial Intelligence Education",
+      "AI Competitions",
+      "Project-Based Learning",
+      "User-Created Levels",
+      "Optimization Algorithms"
+    ]
+  },
+  {
+    "title": "AI as a Methodology for Supporting Educational Praxis and Teacher Metacognition",
+    "year": 2016,
+    "topics": [
+      "evidence-based practice in education",
+      "teacher metacognitive skills",
+      "AI methods for knowledge representation",
+      "technology-enhanced communities for teachers",
+      "AI in teacher training and professional development"
+    ]
+  },
+  {
+    "title": "Fostering innovation in social work and social education degrees: multilingual environment and tools for social change",
+    "year": 2016,
+    "topics": [
+      "multilingual environment",
+      "innovative educative experience",
+      "Content Language Integrated Learning (CLIL)",
+      "problem-solving creative thinking",
+      "social innovation in education"
+    ]
+  },
+  {
+    "title": "Long-Term Trends in the Public Perception of Artificial Intelligence",
+    "year": 2016,
+    "topics": []
+  },
+  {
+    "title": "Creativity: Generating Diverse Questions using Variational Autoencoders",
+    "year": 2017,
+    "topics": [
+      "visual question generation",
+      "variational autoencoders",
+      "long short-term memory networks",
+      "computational education"
+    ]
+  },
+  {
+    "title": "AI in Education needs interpretable machine learning: Lessons from Open Learner Modelling",
+    "year": 2018,
+    "topics": [
+      "Interpretable machine learning",
+      "Open Learner Modelling (OLM)",
+      "Intelligent Tutoring Systems (ITS)",
+      "Human learning and teaching",
+      "Explainable AI"
+    ]
+  },
+  {
+    "title": "AI in Education needs interpretable machine learning: Lessons from Open Learner Modelling",
+    "year": 2018,
+    "topics": [
+      "Interpretable machine learning",
+      "Open Learner Modelling (OLM)",
+      "Intelligent Tutoring Systems (ITS)",
+      "Human learning and teaching",
+      "Explainable AI in Education"
+    ]
+  },
+  {
+    "title": "Towards Emotionally Aware AI Smart Classroom: Current Issues and Directions for Engineering and Education",
+    "year": 2018,
+    "topics": []
+  },
+  {
+    "title": "AI in Education needs interpretable machine learning: Lessons from Open Learner Modelling",
+    "year": 2018,
+    "topics": [
+      "Interpretable machine learning",
+      "Open Learner Modelling (OLM)",
+      "Intelligent Tutoring Systems (ITS)",
+      "Human learning and teaching",
+      "Explainable AI in Education"
+    ]
+  },
+  {
+    "title": "Artificial Intelligence in Education - From a Teacher and a Student Perspective",
+    "year": 2018,
+    "topics": [
+      "Perception of teachers and students on AI usage in the classroom",
+      "Effectiveness of AI in education",
+      "Adaptability and embrace of new technological changes by teachers and students",
+      "Generation and geographic diversity in perceptions of AI in education"
+    ]
+  },
+  {
+    "title": "Deep learning goes to school: toward a relational understanding of AI in education",
+    "year": 2019,
+    "topics": [
+      "Deep learning in education",
+      "Intelligent tutoring systems",
+      "Student performance prediction",
+      "Ethnographic study of AI implementation in education"
+    ]
+  },
+  {
+    "title": "Systematic review of research on artificial intelligence applications in higher education – where are the educators?",
+    "year": 2019,
+    "topics": [
+      "Artificial Intelligence in Education (AIEd)",
+      "Intelligent Tutoring Systems",
+      "Student Profiling and Prediction",
+      "Adaptive Systems and Personalization",
+      "Ethical Approaches in AIEd"
+    ]
+  },
+  {
+    "title": "Educing AI-Thinking in Science, Technology, Engineering, Arts, and Mathematics (STEAM) Education",
+    "year": 2019,
+    "topics": [
+      "AI analytics in STEAM education",
+      "Predictive simulation in education",
+      "Machine learning approaches in education",
+      "Problem-solving and critical thinking skills development"
+    ]
+  },
+  {
+    "title": "Impact of an Artificial Intelligence Research Frame on the Perceived Credibility of Educational Research Evidence",
+    "year": 2019,
+    "topics": [
+      "Artificial Intelligence in Education",
+      "Perceived credibility of research evidence",
+      "Impact of framing on research perception",
+      "Scientific methods in educational research",
+      "Engagement of key stakeholders in education"
+    ]
+  },
+  {
+    "title": "AI in education: learner choice and fundamental rights",
+    "year": 2020,
+    "topics": [
+      "Artificial Intelligence in Education",
+      "Fundamental Human Rights",
+      "Big Data for Monitoring Educational Systems",
+      "Regulation of AI in Education",
+      "Data Protection and Privacy"
+    ]
+  },
+  {
+    "title": "Historical threads, missing links, and future directions in AI in education",
+    "year": 2020,
+    "topics": [
+      "Historical development of AI in education",
+      "Identification of missing links in AI in education",
+      "Future directions for AI in education",
+      "Integration of AI in educational technology",
+      "Impact of AI on teaching and learning"
+    ]
+  },
+  {
+    "title": "The Role of the Teacher and AI in Education",
+    "year": 2020,
+    "topics": []
+  },
+  {
+    "title": "Artificial Intelligence in Education: A Review",
+    "year": 2020,
+    "topics": [
+      "Impact of Artificial Intelligence on Education",
+      "Application effects in administration, instruction, and learning",
+      "Use of intelligent tutoring systems in education",
+      "Personalized learning through AI in education",
+      "Machine learning for customized curriculum content"
+    ]
+  },
+  {
+    "title": "Artificial intelligence for education: Knowledge and its assessment in AI-enabled learning ecologies",
+    "year": 2020,
+    "topics": [
+      "Artificial intelligence in education",
+      "Knowledge assessment in AI-enabled learning ecologies",
+      "Design alternatives for digital learning environments",
+      "Machine intelligence in education",
+      "Transformation of teaching practices through AI"
+    ]
+  },
+  {
+    "title": "My Teacher Is a Machine: Understanding Students’ Perceptions of AI Teaching Assistants in Online Education",
+    "year": 2020,
+    "topics": [
+      "perceptions of AI teaching assistants",
+      "usefulness of AI assistants in education",
+      "communication with AI assistants",
+      "adoption of assistant-based education",
+      "learning experience with AI assistants"
+    ]
+  },
+  {
+    "title": "Challenges and Future Directions of Big Data and Artificial Intelligence in Education",
+    "year": 2020,
+    "topics": [
+      "big data in education",
+      "artificial intelligence in education",
+      "individualized learning",
+      "model-driven analytics",
+      "academia-industry collaboration"
+    ]
+  },
+  {
+    "title": "Artificial intelligence and education in China",
+    "year": 2020,
+    "topics": [
+      "Government policy in AI education",
+      "Role of educational institutions in AI development",
+      "Key companies in AI education in China",
+      "Applications of AI in education",
+      "Market development of AI in education"
+    ]
+  },
+  {
+    "title": "Vision, challenges, roles and research issues of Artificial Intelligence in Education",
+    "year": 2020,
+    "topics": []
+  },
+  {
+    "title": "Trust, transparency, and openness: How inclusion of cultural values shapes Nordic national public policy strategies for artificial intelligence (AI)",
+    "year": 2020,
+    "topics": [
+      "Trust in AI policy",
+      "Transparency in AI decision making",
+      "Cultural values in AI development",
+      "Ethics and privacy in AI technology",
+      "Citizen involvement in AI implementation"
+    ]
+  },
+  {
+    "title": "A multi-perspective study on Artificial Intelligence in Education: grants, conferences, journals, software tools, institutions, and researchers",
+    "year": 2020,
+    "topics": []
+  },
+  {
+    "title": "India's New Policy Progresses Towards Integrating Ai with Education",
+    "year": 2020,
+    "topics": [
+      "Artificial Intelligence in Education",
+      "National Education Policy (NEP)",
+      "Digital Literacy",
+      "AI-assisted Pedagogy",
+      "Inclusive Technology Integration"
+    ]
+  },
+  {
+    "title": "AI-Powered Learning: Making Education Accessible, Affordable, and Achievable",
+    "year": 2020,
+    "topics": [
+      "AI-powered socio-technical system for online learning in higher education",
+      "Virtual experimentation research assistant (VERA) for inquiry-based scientific knowledge",
+      "Jill Watson Q&A for answering questions based on educational documents",
+      "Social agent (SA) for promoting interactions and learner engagement",
+      "Agent Smith for generating new Q&A and class syllabi"
+    ]
+  },
+  {
+    "title": "Can artificial intelligence transform higher education?",
+    "year": 2020,
+    "topics": [
+      "artificial intelligence in higher education",
+      "impact of AI on teaching and learning",
+      "aspirational goals vs. reality in AI in education"
+    ]
+  },
+  {
+    "title": "Making AI Work in Indian Education",
+    "year": 2020,
+    "topics": [
+      "Artificial Intelligence in Education",
+      "Ethical considerations in AI policy programming",
+      "Inclusive universal education",
+      "Impact of AI on educational processes and outcomes",
+      "Integration of AI in Indian education system"
+    ]
+  },
+  {
+    "title": "Application and theory gaps during the rise of Artificial Intelligence in Education",
+    "year": 2020,
+    "topics": [
+      "Deep learning in educational contexts",
+      "Intelligent tutoring systems and conceptual understanding",
+      "Advanced AI techniques adoption in education",
+      "Personalized education through NLP",
+      "Biomedical detection and imaging in education"
+    ]
+  },
+  {
+    "title": "Development of an AI Userbot for Engineering Design Education Using an Intent and Flow Combined Framework",
+    "year": 2020,
+    "topics": [
+      "AI Userbot",
+      "Engineering Design Education",
+      "Dialogflow Google Assistant",
+      "Student Interaction",
+      "Early Stage Design Activities"
+    ]
+  },
+  {
+    "title": "Ethics of AI in Education: Towards a Community-Wide Framework",
+    "year": 2021,
+    "topics": [
+      "Ethics in AI in Education",
+      "Fairness and Bias in AI systems",
+      "Transparency and Accountability in AI systems",
+      "Autonomy and Agency in AI-supported learning",
+      "Inclusion and Diversity in AI in Education"
+    ]
+  },
+  {
+    "title": "The use of AI in education: Practicalities and ethical considerations",
+    "year": 2021,
+    "topics": [
+      "Practicalities of AI in education",
+      "Ethical considerations in AI education",
+      "Enriching student learning through AI",
+      "Personalization of education through AI",
+      "Special educational needs and AI benefits"
+    ]
+  },
+  {
+    "title": "AI technologies for education: Recent research &amp; future directions",
+    "year": 2021,
+    "topics": [
+      "Artificial Intelligence in Education (AIEd)",
+      "Technologies applications in education",
+      "Benefits of AI in education",
+      "Ethics and privacy concerns in AIEd research",
+      "Interdisciplinary collaborations in AIEd"
+    ]
+  },
+  {
+    "title": "A Differentiated Discussion About AI Education K-12",
+    "year": 2021,
+    "topics": [
+      "AI Education in K-12",
+      "Literacy",
+      "Formal versus Informal Education",
+      "Cooperation among Researchers",
+      "Concepts and Tools"
+    ]
+  },
+  {
+    "title": "The role and challenges of education for responsible AI",
+    "year": 2021,
+    "topics": [
+      "Artificial intelligence in education",
+      "Privacy concerns in AI",
+      "Well-being in AI education",
+      "Social transformation in education",
+      "Responsible and trustworthy AI vision in education"
+    ]
+  },
+  {
+    "title": "Analysis of AI Precision Education Strategy for Small Private Online Courses",
+    "year": 2021,
+    "topics": [
+      "AI precision education strategy",
+      "Small private online courses (SPOC)",
+      "Student satisfaction and attitudes towards learning",
+      "Integration of SPOCs into university classrooms",
+      "Impact of AI model on student achievement"
+    ]
+  },
+  {
+    "title": "Beyond \"Fairness:\" Structural (In)justice Lenses on AI for Education",
+    "year": 2021,
+    "topics": [
+      "Structural injustice in AI for education",
+      "Marginalized communities and inequitable outcomes",
+      "Critical theory and Black feminist scholarship in evaluating AI fairness",
+      "Historical legacies of inequity in educational systems",
+      "Alternative visions for a more equitable future in AI for education"
+    ]
+  },
+  {
+    "title": "Readying Medical Students for Medical AI: The Need to Embed AI Ethics Education",
+    "year": 2021,
+    "topics": [
+      "AI Ethics Education",
+      "Medical AI Systems",
+      "Embedded Ethics Framework",
+      "Ethical Issues in AI",
+      "Risk-Benefit Analyses in Healthcare"
+    ]
+  },
+  {
+    "title": "Could AI Democratise Education? Socio-Technical Imaginaries of an EdTech Revolution",
+    "year": 2021,
+    "topics": [
+      "Personalised curricula",
+      "Educational inequality",
+      "Human-centered AI-based algorithms",
+      "Global access to education",
+      "Socio-technical features in AI education"
+    ]
+  },
+  {
+    "title": "AI K–12 Education Service",
+    "year": 2021,
+    "topics": [
+      "AI in K-12 education",
+      "Scientific venues in AI education",
+      "Journals in AI education",
+      "Projects in AI education",
+      "Resources in AI education"
+    ]
+  },
+  {
+    "title": "A decolonial approach to AI in higher education teaching and learning: strategies for undoing the ethics of digital neocolonialism",
+    "year": 2021,
+    "topics": [
+      "decolonial approach",
+      "ethics of digital neocolonialism",
+      "pedagogical implications",
+      "algorithmic colonial context"
+    ]
+  },
+  {
+    "title": "Human-centered artificial intelligence in education: Seeing the invisible through the visible",
+    "year": 2021,
+    "topics": [
+      "Artificial Intelligence in Education",
+      "Human-Centered Artificial Intelligence",
+      "Algorithm Bias and Governance",
+      "Ethical Considerations in AI",
+      "Impact of AI on Human Welfare"
+    ]
+  },
+  {
+    "title": "Education, automation and AI: a genealogy of alternative futures",
+    "year": 2021,
+    "topics": [
+      "technical development in education",
+      "automation and AI in education",
+      "skills and competencies for future technological advancements",
+      "computerization debates in education",
+      "genealogical approach to understanding AI in education"
+    ]
+  },
+  {
+    "title": "Artificial Intelligence in Education (AIEd): a high-level academic and industry note 2021",
+    "year": 2021,
+    "topics": [
+      "intelligent tutoring systems",
+      "contextualized learning",
+      "assessment development",
+      "ethical considerations in AIEd",
+      "impact of AIEd on education during Covid-19 pandemic"
+    ]
+  },
+  {
+    "title": "Artificial Intelligence for Student Assessment: A Systematic Review",
+    "year": 2021,
+    "topics": [
+      "Artificial Intelligence in Education",
+      "Student Assessment",
+      "Formative Evaluation",
+      "Automatic Grading",
+      "Teacher Training"
+    ]
+  },
+  {
+    "title": "I Like My Relational Machine Teacher: An AI Instructor’s Communication Styles and Social Presence in Online Education",
+    "year": 2021,
+    "topics": [
+      "AI instructor's communication styles",
+      "Social presence in online education",
+      "Impact of communication style on students' perceptions",
+      "Effectiveness of relational communication style in education",
+      "Mediating role of presence in student-instructor relationship"
+    ]
+  },
+  {
+    "title": "Learning design to support student-AI collaboration: perspectives of leading teachers for AI in education",
+    "year": 2022,
+    "topics": [
+      "curriculum design",
+      "student-AI interaction",
+      "environments for collaboration",
+      "subject-matter knowledge building",
+      "instructional scaffolding"
+    ]
+  },
+  {
+    "title": "State of the art and practice in <scp>AI</scp> in education",
+    "year": 2022,
+    "topics": [
+      "Artificial Intelligence in Education",
+      "State-of-the-art Education Systems",
+      "Pedagogic Educational Assumptions",
+      "Learning Typology in AIED",
+      "Potential Roadblocks in AI Education"
+    ]
+  },
+  {
+    "title": "Towards Intelligent-TPACK: An empirical study on teachers’ professional knowledge to ethically integrate artificial intelligence (AI)-based tools into education",
+    "year": 2022,
+    "topics": []
+  },
+  {
+    "title": "Finnish 5th and 6th grade students' pre-instructional conceptions of artificial intelligence (AI) and their implications for AI literacy education",
+    "year": 2022,
+    "topics": [
+      "pre-instructional conceptions of artificial intelligence",
+      "AI literacy education",
+      "misconceptions about AI",
+      "pedagogical implications of teaching AI",
+      "anthropomorphic views of AI"
+    ]
+  },
+  {
+    "title": "AI hyped? A horizon scan of discourse on artificial intelligence in education (AIED) and development",
+    "year": 2022,
+    "topics": [
+      "geopolitical dominance through technological innovation",
+      "creation and expansion of market niches",
+      "managing narratives, perceptions, and norms"
+    ]
+  },
+  {
+    "title": "The future of <scp>AI</scp> and education: Some cautionary notes",
+    "year": 2022,
+    "topics": [
+      "limitations in modeling social contexts and simulating human intelligence",
+      "harm associated with the use of AI in education",
+      "value-driven nature of claims in AI education"
+    ]
+  },
+  {
+    "title": "Artificial Intelligence (AI) in early childhood education: Curriculum design and future directions",
+    "year": 2022,
+    "topics": [
+      "Artificial Intelligence in early childhood education",
+      "Curriculum design for AI literacy",
+      "Use of social robots as learning companions",
+      "Impact of teaching methods on student learning",
+      "Development of AI competencies in young children"
+    ]
+  },
+  {
+    "title": "Ethical principles for artificial intelligence in education",
+    "year": 2022,
+    "topics": [
+      "Ethical principles for AI in Education",
+      "Trustworthy AI in Education",
+      "Stakeholder implications in AI in Education",
+      "Global consensus on AI principles in Education"
+    ]
+  },
+  {
+    "title": "A Transparency Index Framework for AI in Education",
+    "year": 2022,
+    "topics": [
+      "Transparency Index Framework",
+      "AI ethics in education",
+      "Stakeholder co-design",
+      "Interpretability in education",
+      "Accountability in education"
+    ]
+  },
+  {
+    "title": "Development of an AR-Based AI Education App for Non-Majors",
+    "year": 2022,
+    "topics": [
+      "AR-based AI education app",
+      "Machine learning education for non-majors",
+      "Technology acceptance model in education",
+      "Instantaneous feedback in AR learning"
+    ]
+  },
+  {
+    "title": "AI-Based Learning Style Prediction in Online Learning for Primary Education",
+    "year": 2022,
+    "topics": [
+      "AI-based learning style prediction",
+      "Online learning in primary education",
+      "Personalized learning",
+      "Collaborative filtering-based models",
+      "Student performance evaluation"
+    ]
+  },
+  {
+    "title": "Artificial intelligence applications in Latin American higher education: a systematic review",
+    "year": 2022,
+    "topics": [
+      "predictive modelling",
+      "intelligent analytics",
+      "assistive technology",
+      "automatic content analysis",
+      "image analytics"
+    ]
+  },
+  {
+    "title": "How artificial intelligence (AI) supports nursing education: profiling the roles, applications, and trends of AI in nursing education research (1993–2020)",
+    "year": 2022,
+    "topics": [
+      "Role of artificial intelligence in nursing education",
+      "Applications of artificial intelligence in nursing education research",
+      "Trends in artificial intelligence for future study in nursing education",
+      "Intelligent agents in nursing education",
+      "Quantitative approaches in AI-supported nursing education research"
+    ]
+  },
+  {
+    "title": "Towards hybrid <scp>human‐AI</scp> learning technologies",
+    "year": 2022,
+    "topics": [
+      "hybrid learning technologies",
+      "quadruple helix stakeholders",
+      "detect-diagnose-act framework",
+      "self-regulated learning"
+    ]
+  },
+  {
+    "title": "Artificial Intelligence education for young children: Why, what, and how in curriculum design and implementation",
+    "year": 2022,
+    "topics": [
+      "AI education for young children",
+      "Curriculum design and implementation",
+      "Learning-by-making pedagogy",
+      "Embodied and culturally responsive approach",
+      "STEM understanding"
+    ]
+  },
+  {
+    "title": "A comprehensive AI policy education framework for university teaching and learning",
+    "year": 2023,
+    "topics": [
+      "AI education policy",
+      "text generative technologies",
+      "Ecological Education Policy Framework",
+      "Pedagogical dimension",
+      "Governance dimension"
+    ]
+  },
+  {
+    "title": "Open AI in Education, the Responsible and Ethical Use of ChatGPT Towards Lifelong Learning",
+    "year": 2023,
+    "topics": [
+      "Responsible and ethical use of AI in education",
+      "Open AI's ChatGPT in educational settings",
+      "Privacy and transparency in AI-based educational technologies"
+    ]
+  },
+  {
+    "title": "Students’ voices on generative AI: perceptions, benefits, and challenges in higher education",
+    "year": 2023,
+    "topics": [
+      "perceptions of generative AI technologies in higher education",
+      "benefits of GenAI in personalized learning support, writing brainstorming assistance, research analysis capabilities",
+      "challenges of accuracy, privacy, ethical issues, impact on personal development, career prospects, societal values",
+      "student influence on approaches and outcomes in AI integration in education",
+      "policy development and responsible implementation of AI tools in education"
+    ]
+  },
+  {
+    "title": "The Social life of AI in Education",
+    "year": 2023,
+    "topics": [
+      "Artificial Intelligence in Higher Education",
+      "Ethical Frameworks in AI Education",
+      "Technochauvinism in Education Technology",
+      "Evidence Base for AI-based Teaching and Learning",
+      "Automated Natural Language Generating Technologies"
+    ]
+  },
+  {
+    "title": "Education in the Era of Generative Artificial Intelligence (AI): Understanding the Potential Benefits of ChatGPT in Promoting Teaching and Learning",
+    "year": 2023,
+    "topics": []
+  },
+  {
+    "title": "Unpacking the \"Black Box\" of AI in Education",
+    "year": 2023,
+    "topics": [
+      "Artificial Intelligence in Education",
+      "Methods and Philosophies of AI",
+      "Applications of AI in Education",
+      "Limitations and Risks of AI in Education",
+      "Educationalists' Questions and Research Practices"
+    ]
+  },
+  {
+    "title": "Shaping the Future of Education: Exploring the Potential and Consequences of AI and ChatGPT in Educational Settings",
+    "year": 2023,
+    "topics": [
+      "Artificial Intelligence in Education",
+      "Generative Pre-trained Transformers (GPT) in Education",
+      "Ethical and Social Implications of AI in Education",
+      "Impact of AI on Analytical Skills in Education"
+    ]
+  },
+  {
+    "title": "Chatbots and AI in Education (AIEd) tools: The good, the bad, and the ugly",
+    "year": 2023,
+    "topics": [
+      "Chatbots in education",
+      "Personalized learning",
+      "Ethical considerations in AIEd",
+      "Job displacement in education",
+      "Data privacy and bias in AIEd"
+    ]
+  },
+  {
+    "title": "Challenges and Opportunities of Generative AI for Higher Education as Explained by ChatGPT",
+    "year": 2023,
+    "topics": [
+      "Generative AI in higher education",
+      "Integrity and plagiarism detection",
+      "Impact on critical thinking skills",
+      "Mitigation strategies for challenges",
+      "Clear policies and guidelines for integration"
+    ]
+  },
+  {
+    "title": "Artificial intelligence (AI) literacy education in secondary schools: a review",
+    "year": 2023,
+    "topics": [
+      "AI literacy education",
+      "Pedagogical approaches in AI education",
+      "Teaching tools for AI education",
+      "Assessment methods in AI education",
+      "Effects of AI education on students"
+    ]
+  },
+  {
+    "title": "The impact of Generative AI (GenAI) on practices, policies and research direction in education: a case of ChatGPT and Midjourney",
+    "year": 2023,
+    "topics": []
+  },
+  {
+    "title": "Exploring User Perspectives on ChatGPT: Applications, Perceptions, and Implications for AI-Integrated Education",
+    "year": 2023,
+    "topics": [
+      "User perspectives on AI-integrated education",
+      "Applications of ChatGPT in education",
+      "Perceptions of AI systems in educational contexts",
+      "Ethical considerations in AI-enhanced learning environments",
+      "Impact of AI systems on student self-efficacy and motivation"
+    ]
+  },
+  {
+    "title": "How do we respond to generative AI in education? Open educational practices give us a framework for an ongoing process",
+    "year": 2023,
+    "topics": [
+      "Generative AI in education",
+      "Open educational practices",
+      "Collaboration in AI-enhanced learning environments",
+      "Student-centered approaches in AI education",
+      "Ethical considerations in AI integration in education"
+    ]
+  },
+  {
+    "title": "Exploring the Potential Impact of Artificial Intelligence (AI) on International Students in Higher Education: Generative AI, Chatbots, Analytics, and International Student Success",
+    "year": 2023,
+    "topics": []
+  },
+  {
+    "title": "Role of AI chatbots in education: systematic literature review",
+    "year": 2023,
+    "topics": [
+      "AI chatbots in education",
+      "Virtual teaching assistants",
+      "Personalized learning experience",
+      "Challenges and limitations in AI education technology"
+    ]
+  },
+  {
+    "title": "Developing a model for AI Across the curriculum: Transforming the higher education landscape via innovation in AI literacy",
+    "year": 2023,
+    "topics": [
+      "AI literacy in higher education",
+      "Integration of AI across the curriculum",
+      "21st-century competencies and workforce readiness",
+      "Interdisciplinary education and career readiness",
+      "Innovation in AI education"
+    ]
+  },
+  {
+    "title": "Future research recommendations for transforming higher education with generative AI",
+    "year": 2023,
+    "topics": [
+      "Impact of generative AI on learning outcomes",
+      "Pedagogy reform in higher education with GenAI",
+      "Interdisciplinary teaching and maker learning",
+      "Skills and competencies for future-ready employment",
+      "Innovative pedagogies and assessment in the context of GenAI"
+    ]
+  },
+  {
+    "title": "Artificial Intelligence (AI) Literacy in Early Childhood Education: The Challenges and Opportunities",
+    "year": 2023,
+    "topics": [
+      "Artificial Intelligence literacy in early childhood education",
+      "Challenges and opportunities in AI curriculum for young children",
+      "Pedagogical approaches and research designs in AI education",
+      "Teacher knowledge, skills, and confidence in AI education",
+      "Design and teaching guidelines for AI education"
+    ]
+  },
+  {
+    "title": "War of the chatbots: Bard, Bing Chat, ChatGPT, Ernie and beyond. The new AI gold rush and its impact on higher education",
+    "year": 2023,
+    "topics": [
+      "Chatbots in higher education",
+      "Comparative analysis of chatbot performance",
+      "Impact of AI chatbots on teaching and learning",
+      "Recommendations for key stakeholders in education"
+    ]
+  },
+  {
+    "title": "Multimodality of AI for Education: Towards Artificial General Intelligence",
+    "year": 2023,
+    "topics": []
+  },
+  {
+    "title": "Education 4.0 and 5.0: Integrating Artificial Intelligence (AI) for Personalized and Adaptive Learning",
+    "year": 2023,
+    "topics": []
+  },
+  {
+    "title": "Human-centred learning analytics and AI in education: A systematic literature review",
+    "year": 2024,
+    "topics": [
+      "Human-centred learning analytics",
+      "Artificial Intelligence in Education",
+      "Data privacy and agency",
+      "Stakeholder involvement in system design",
+      "End-user involvement in system design"
+    ]
+  },
+  {
+    "title": "Embracing the future of Artificial Intelligence in the classroom: the relevance of AI literacy, prompt engineering, and critical thinking in modern education",
+    "year": 2024,
+    "topics": [
+      "AI literacy",
+      "Prompt engineering",
+      "Critical thinking",
+      "Personalized learning support",
+      "Educator training"
+    ]
+  },
+  {
+    "title": "What Explains Teachers’ Trust in AI in Education Across Six Countries?",
+    "year": 2024,
+    "topics": [
+      "Teachers' trust in AI in Education",
+      "Perceived benefits of AI-EdTech",
+      "Teacher characteristics influencing trust in AI",
+      "Cultural values and trust in AI",
+      "Psychological factors affecting trust in AI"
+    ]
+  },
+  {
+    "title": "Generative AI in Education: A Study of Educators' Awareness, Sentiments,\n  and Influencing Factors",
+    "year": 2024,
+    "topics": [
+      "Awareness of AI in education",
+      "Sentiments towards AI-based tools",
+      "Factors influencing adoption of generative AI in education",
+      "Impact of AI on teaching and learning",
+      "Educators' perspectives on AI in the classroom"
+    ]
+  },
+  {
+    "title": "The Integration of AI and Metaverse in Education: A Systematic Literature Review",
+    "year": 2025,
+    "topics": [
+      "Metaverse in educational environments",
+      "Virtual reality augmented technologies in learning environments",
+      "Integration of artificial intelligence in education",
+      "AI-driven teaching systems",
+      "Impact of AI and Metaverse on students' understanding and comprehension"
+    ]
+  },
+  {
+    "title": "The Impact of AI-Generated Instructional Videos on Problem-Based Learning in Science Teacher Education",
+    "year": 2025,
+    "topics": [
+      "AI-generated instructional videos",
+      "Problem-Based Learning (PBL)",
+      "Personalized professional development",
+      "Educational outcomes",
+      "Effectiveness of AI in teacher training"
+    ]
+  },
+  {
+    "title": "The Impact of <scp>AI</scp> on the Personal and Collaborative Learning Environments in Higher Education",
+    "year": 2025,
+    "topics": [
+      "personalized assessments",
+      "communication and engagement",
+      "peer-learning opportunities",
+      "ethical use and academic integrity",
+      "AI-mediated human environments"
+    ]
+  }
+]

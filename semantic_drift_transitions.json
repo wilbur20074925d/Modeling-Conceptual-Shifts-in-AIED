@@ -1,0 +1,4562 @@
+{
+  "1995": [
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 19.6116,
+      "js_divergence": 0.7126
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    }
+  ],
+  "1996": [
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 17.7842,
+      "js_divergence": 0.7126
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 17.6883,
+      "js_divergence": 0.6667
+    },
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    }
+  ],
+  "1997": [
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 17.3221,
+      "js_divergence": 0.4591
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 17.5531,
+      "js_divergence": 0.5954
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    }
+  ],
+  "1998": [
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 17.6883,
+      "js_divergence": 0.6667
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 13.6717,
+      "js_divergence": 0.5954
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    }
+  ],
+  "1999": [
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 17.8585,
+      "js_divergence": 0.7455
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 17.3221,
+      "js_divergence": 0.4591
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    }
+  ],
+  "2000": [
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 26.0216,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 26.0216,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 20.4954,
+      "js_divergence": 0.61
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 26.0216,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 26.0216,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    }
+  ],
+  "2001": [
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 17.3221,
+      "js_divergence": 0.4591
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 1.3863,
+      "js_divergence": 0.5488
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    }
+  ],
+  "2002": [
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 19.7393,
+      "js_divergence": 0.777
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 1.6094,
+      "js_divergence": 0.61
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    }
+  ],
+  "2003": [
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 26.0216,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 26.0216,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 20.8537,
+      "js_divergence": 0.8178
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 26.0216,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 26.0216,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 1.7918,
+      "js_divergence": 0.6549
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    }
+  ],
+  "2004": [
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 25.8393,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 25.8393,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 25.8393,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 25.8393,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 25.8393,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    }
+  ],
+  "2005": [
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 13.1224,
+      "js_divergence": 0.3113
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 17.5531,
+      "js_divergence": 0.5954
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    }
+  ],
+  "2006": [
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 13.1224,
+      "js_divergence": 0.3113
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 1.3863,
+      "js_divergence": 0.5488
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 0.0,
+      "js_divergence": 0.0
+    }
+  ],
+  "2007": [
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 19.337,
+      "js_divergence": 0.5488
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 19.6116,
+      "js_divergence": 0.7126
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    }
+  ],
+  "2008": [
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 0.0,
+      "js_divergence": 0.0
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 17.6883,
+      "js_divergence": 0.6667
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 17.3221,
+      "js_divergence": 0.4591
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 0.0,
+      "js_divergence": 0.0
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    }
+  ],
+  "2009": [
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 17.5531,
+      "js_divergence": 0.5954
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 1.3863,
+      "js_divergence": 0.5488
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 17.7842,
+      "js_divergence": 0.7126
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    }
+  ],
+  "2010": [
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 1.3863,
+      "js_divergence": 0.5488
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 0.0,
+      "js_divergence": 0.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 19.6835,
+      "js_divergence": 0.75
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 19.337,
+      "js_divergence": 0.5488
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 19.337,
+      "js_divergence": 0.5488
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 0.0,
+      "js_divergence": 0.0
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    }
+  ],
+  "2011": [
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 19.6116,
+      "js_divergence": 0.7126
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 19.6116,
+      "js_divergence": 0.7126
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 1.0986,
+      "js_divergence": 0.4591
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 13.1224,
+      "js_divergence": 0.3113
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 13.6717,
+      "js_divergence": 0.5954
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 1.0986,
+      "js_divergence": 0.4591
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    }
+  ],
+  "2012": [
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 17.5531,
+      "js_divergence": 0.5954
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 17.6883,
+      "js_divergence": 0.6667
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 17.5531,
+      "js_divergence": 0.5954
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 1.0986,
+      "js_divergence": 0.4591
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 17.5531,
+      "js_divergence": 0.5954
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 13.1224,
+      "js_divergence": 0.3113
+    }
+  ],
+  "2013": [
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 13.1224,
+      "js_divergence": 0.3113
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 17.6883,
+      "js_divergence": 0.6667
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 0.4055,
+      "js_divergence": 0.1909
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    }
+  ],
+  "2014": [
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 1.3863,
+      "js_divergence": 0.5488
+    },
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 17.5531,
+      "js_divergence": 0.5954
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 17.3221,
+      "js_divergence": 0.4591
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 17.7842,
+      "js_divergence": 0.7126
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 17.5531,
+      "js_divergence": 0.5954
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    }
+  ],
+  "2015": [
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 19.5103,
+      "js_divergence": 0.6556
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 19.6116,
+      "js_divergence": 0.7126
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 19.337,
+      "js_divergence": 0.5488
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 13.4689,
+      "js_divergence": 0.5
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 13.6717,
+      "js_divergence": 0.5954
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 1.0986,
+      "js_divergence": 0.4591
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 1.0986,
+      "js_divergence": 0.4591
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    }
+  ],
+  "2016": [
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 14.0182,
+      "js_divergence": 0.7296
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 13.1224,
+      "js_divergence": 0.3113
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 0.6931,
+      "js_divergence": 0.3113
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 17.9193,
+      "js_divergence": 0.7704
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 0.0,
+      "js_divergence": 0.0
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 0.0,
+      "js_divergence": 0.0
+    }
+  ],
+  "2017": [
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 16.9951,
+      "js_divergence": 0.5409
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 25.8393,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 25.8393,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 25.8393,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 21.2341,
+      "js_divergence": 0.6549
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 0.6931,
+      "js_divergence": 0.3113
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 0.6931,
+      "js_divergence": 0.3113
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    }
+  ],
+  "2018": [
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 17.6883,
+      "js_divergence": 0.6667
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 17.7842,
+      "js_divergence": 0.7126
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 13.1224,
+      "js_divergence": 0.3113
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 13.8155,
+      "js_divergence": 0.6556
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 0.0,
+      "js_divergence": 0.0
+    }
+  ],
+  "2019": [
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 17.3221,
+      "js_divergence": 0.4591
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 19.337,
+      "js_divergence": 0.5488
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 19.337,
+      "js_divergence": 0.5488
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 0.6931,
+      "js_divergence": 0.3113
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 1.0986,
+      "js_divergence": 0.4591
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    }
+  ],
+  "2020": [
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 0.0,
+      "js_divergence": 0.0
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 13.8155,
+      "js_divergence": 0.6556
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 13.1224,
+      "js_divergence": 0.3113
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 0.0,
+      "js_divergence": 0.0
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 17.7842,
+      "js_divergence": 0.7126
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 1.3863,
+      "js_divergence": 0.5488
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    }
+  ],
+  "2021": [
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 1.3863,
+      "js_divergence": 0.5488
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 0.6931,
+      "js_divergence": 0.3113
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 19.6835,
+      "js_divergence": 0.75
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 19.337,
+      "js_divergence": 0.5488
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 1.3863,
+      "js_divergence": 0.5488
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    }
+  ],
+  "2022": [
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 19.7393,
+      "js_divergence": 0.777
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 19.337,
+      "js_divergence": 0.5488
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 13.9271,
+      "js_divergence": 0.6979
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 0.6931,
+      "js_divergence": 0.3113
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    }
+  ],
+  "2023": [
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 13.6717,
+      "js_divergence": 0.5954
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 26.9379,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 15.4086,
+      "js_divergence": 0.491
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 26.0216,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 20.7726,
+      "js_divergence": 0.777
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 20.4954,
+      "js_divergence": 0.61
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 26.0216,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 1.3863,
+      "js_divergence": 0.5488
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    }
+  ],
+  "2024": [
+    {
+      "from": "2",
+      "to": "2",
+      "kl_divergence": 17.3221,
+      "js_divergence": 0.4591
+    },
+    {
+      "from": "2",
+      "to": "4",
+      "kl_divergence": 17.6883,
+      "js_divergence": 0.6667
+    },
+    {
+      "from": "2",
+      "to": "0",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "2",
+      "to": "1",
+      "kl_divergence": 17.5531,
+      "js_divergence": 0.5954
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "kl_divergence": 26.5324,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "4",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "4",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "0",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "1",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "1",
+      "to": "3",
+      "kl_divergence": 26.2447,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "4",
+      "kl_divergence": 1.0986,
+      "js_divergence": 0.4591
+    },
+    {
+      "from": "0",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "0",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "2",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "0",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "1",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    },
+    {
+      "from": "3",
+      "to": "3",
+      "kl_divergence": 27.631,
+      "js_divergence": 1.0
+    }
+  ]
+}
